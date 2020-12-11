@@ -1,4 +1,4 @@
-module github.com/Nerzal/gocloak/v7
+module github.com/timdrysdale/gocloak/v7
 
 go 1.15
 
